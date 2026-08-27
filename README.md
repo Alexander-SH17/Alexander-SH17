@@ -2,7 +2,7 @@
 
 **Кандидат экономических наук · Бизнес-консультант · ИИ-разработчик**
 
-<img src="img/about.jpg" width="140" style="border-radius:50%; border: 3px solid #6a0dad" />
+<img src="img/about.jpg" width="140" style="border-radius:50%" />
 
 ---
 
